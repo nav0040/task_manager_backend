@@ -3,6 +3,10 @@
 
 This is a MERN (MongoDB, Express, React, Node.js) stack-based Task Management System that allows Managers to manage Tasks for Employees.
 
+credentails
+email:"samjohn@gmail.com"
+password:12345678
+
 
 
 ## Features
